@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment
+.env
+*.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large ML files — too big for GitHub
+*.pkl
+*.npy
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

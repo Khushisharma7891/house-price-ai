@@ -1,0 +1,8 @@
+{
+    "model_name": "Random Forest Regressor",
+    "n_estimators": 100,
+    "random_state": 42,
+    "r2_score": 0.785,
+    "mae": 30802,
+    "rmse": 46297
+}
