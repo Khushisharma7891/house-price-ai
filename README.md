@@ -244,6 +244,7 @@ Replace this with your screenshot:
 ---
 
 ✦ Future Improvements
+
 ◆ Advanced Analytics Dashboard  
 ◆ Better Prediction Visualization  
 ◆ AI-Based Smart Recommendations  
