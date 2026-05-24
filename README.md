@@ -1,223 +1,251 @@
 <div align="center">
 
-# ✦ HOUSE PRICE AI ✦
+# House Price AI
 
-*AI-Powered California House Price Prediction System*
-
-<img src="YOUR_SCREENSHOT_LINK_HERE" width="100%" alt="House Price AI Banner"/>
-
-<br>
+### Predicting California House Prices with Machine Learning
 
 <p align="center">
-  <strong>End-to-End Machine Learning • Full Stack Development • Real-Time Prediction</strong>
+  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="House Price AI Preview" width="100%" />
 </p>
 
 <p align="center">
-Built with a modern ML pipeline using <strong>React, Flask, Tailwind CSS, Machine Learning & MongoDB Atlas</strong>
+An end-to-end Machine Learning web application for predicting California house prices using regression models, built with React, Flask, and Scikit-Learn.
 </p>
 
-<br>
+<p align="center">
 
-![Status](https://img.shields.io/badge/Status-Completed-black?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-black?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-Completed-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Regression-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Deployment-Live-111111?style=flat-square" />
 
-◆ Live Demo ◆
+</p>
 
-**https://house-price-ai-beta.vercel.app/**
+### [Live Demo](https://house-price-ai-beta.vercel.app/)
 
 </div>
 
 ---
 
-✦ Overview
-House Price AI** is a premium **end-to-end Machine Learning web application** developed as a **Full Stack Developer**.
-This project demonstrates a complete ML workflow — from **raw data collection and preprocessing** to **model training, evaluation, prediction, and full-stack deployment**.
-The system predicts **California house prices** using advanced regression algorithms trained on the **California Housing Dataset (1990 US Census)**.
+## About The Project
 
-Each record in the dataset represents one California block group containing features such as:
-◈ Location  
-◈ Housing Median Age  
-◈ Population  
-◈ Total Rooms  
-◈ Total Bedrooms  
-◈ Median Income  
+**House Price AI** is an end-to-end Machine Learning web application developed as a **Full stack web developer**.
 
-The objective is to accurately predict the **median house value** using Machine Learning models and compare performance to select the best model.
+The project demonstrates a complete ML workflow — starting from raw dataset processing to training multiple machine learning models and deploying the best-performing model into a real-world full stack application.
 
----
+The model predicts **California house prices** using data from the **California Housing Dataset (1990 US Census)**.
 
-◈ Project Showcase
+The dataset includes various housing-related features such as:
 
-Premium ML-Based House Price Prediction Experience
-◆ Responsive Modern UI  
-◆ Real-Time Prediction System  
-◆ Full Stack ML Integration  
-◆ Smart Data Processing  
-◆ Advanced Model Evaluation  
-◆ Production Deployment
+- Location
+- Housing median age
+- Population
+- Total rooms
+- Total bedrooms
+- Median income
+
+The primary objective of this project is to predict the **median house value** by comparing different regression models and selecting the most accurate one.
 
 ---
 
-✦ Features
+## Preview
 
-◈ Core Features
-◆ Real-time house price prediction  
-◆ Interactive and responsive user interface  
-◆ Full-stack integration using React + Flask  
-◆ Data preprocessing and feature engineering  
-◆ Exploratory Data Analysis (EDA)  
-◆ Correlation analysis & visualization  
-◆ Multiple Machine Learning model comparison  
-◆ Model performance evaluation  
-◆ Random Forest deployment for prediction  
-◆ Mobile responsive modern UI  
-◆ Smooth prediction workflow  
----
+### Web Application Interface
 
-◈ Tech Stack
+> Add your project screenshots here
 
-<div align="center">
-
-◆ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css)
-
-◆ Backend
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask)
-
-◆ Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-20232A?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=numpy)
-
-◆ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
-
-◆ Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter)
-![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render)
-
-</div>
-
----
-
-◆ Machine Learning Models
-The following regression models were implemented and compared:
-| Model | Purpose |
-|--------|----------|
-| Linear Regression | Baseline prediction |
-| Decision Tree Regressor | Non-linear pattern learning |
-| Random Forest Regressor | Best-performing model |
-| Gradient Boosting Regressor | Performance comparison |
-
-✦ Best Model Selected
-**Random Forest Regressor**
-**R² Score → 78.5%**
-After comparing model performance, **Random Forest** achieved the highest accuracy and was selected for deployment.
----
-
-✦ ML Workflow
-
-```text
-Dataset Collection (Kaggle)
-            ↓
-CSV Extraction
-            ↓
-Data Understanding
-            ↓
-Data Preprocessing
-            ↓
-Exploratory Data Analysis
-            ↓
-Feature Engineering
-            ↓
-Visualization & Correlation Analysis
-            ↓
-Model Training
-            ↓
-Model Comparison
-            ↓
-Model Evaluation
-            ↓
-Best Model Selection
-            ↓
-Flask API Development
-            ↓
-React Frontend Development
-            ↓
-Deployment (Vercel + Render)
+```md
+![Preview 1](your-image-link)
 ```
 
 ---
 
-◈ Dataset Information
-The dataset was collected from **Kaggle** and converted into **CSV format** for model training and analysis.
+## Key Features
 
-◆ Dataset Features
-◈ Longitude  
-◈ Latitude  
-◈ Housing Median Age  
-◈ Total Rooms  
-◈ Total Bedrooms  
-◈ Population  
-◈ Households  
-◈ Median Income  
+- Real-time house price prediction
+- Interactive and responsive user interface
+- End-to-end Machine Learning pipeline
+- Data preprocessing and feature engineering
+- Exploratory Data Analysis (EDA)
+- Correlation analysis and visualizations
+- Multiple regression model comparison
+- Model evaluation and accuracy analysis
+- Full stack deployment with React and Flask
+- Mobile responsive modern interface
 
-◆ Target Variable
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries Used**
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel" />
+</p>
+
+**Other Tools**
+- Jupyter Notebook
+- Kaggle Dataset
+- Excel
+- Render
+
+---
+
+## Machine Learning Models
+
+The following regression models were implemented and compared during training:
+
+| Model | Purpose |
+|--------|----------|
+| Linear Regression | Baseline model |
+| Decision Tree Regressor | Pattern learning |
+| Random Forest Regressor | Best performing model |
+| Gradient Boosting Regressor | Performance comparison |
+
+### Final Selected Model
+
+**Random Forest Regressor**
+
+**R² Score: 78.5%**
+
+After evaluation, the Random Forest model achieved the best prediction performance and was selected for deployment.
+
+---
+
+## Project Workflow
+
+```text
+Dataset Collection (Kaggle)
+        ↓
+Data Understanding
+        ↓
+Data Preprocessing
+        ↓
+Exploratory Data Analysis (EDA)
+        ↓
+Feature Engineering
+        ↓
+Data Visualization
+        ↓
+Model Training
+        ↓
+Model Comparison
+        ↓
+Model Evaluation
+        ↓
+Best Model Selection
+        ↓
+Flask API Development
+        ↓
+React Frontend Development
+        ↓
+Deployment
+```
+
+---
+
+## Dataset Information
+
+The dataset was collected from **Kaggle** and converted into **CSV format** for analysis and model training.
+
+### Input Features
+
+- Longitude
+- Latitude
+- Housing Median Age
+- Total Rooms
+- Total Bedrooms
+- Population
+- Households
+- Median Income
+
+### Target Variable
+
 **Median House Value**
 
 ---
 
-# ✦ Project Structure
+## Project Structure
+
 ```bash
 house-price-ai/
-│── backend/
+│
+├── backend/
 │   ├── app.py
 │   ├── model.pkl
 │   ├── requirements.txt
 │
-│── frontend/
+├── frontend/
 │   ├── src/
 │   ├── public/
-│   ├── components/
+│   └── components/
 │
-│── notebook/
+├── notebook/
 │   ├── EDA.ipynb
-│   ├── model_training.ipynb
+│   └── model_training.ipynb
 │
-│── dataset/
-│   ├── housing.csv
+├── dataset/
+│   └── housing.csv
 │
-│── README.md
+└── README.md
 ```
 
---
-◆ Installation Guide
+---
 
-◈ Clone Repository
+## Installation & Setup
+
+### Clone Repository
+
 ```bash
 git clone https://github.com/khushisharma7891/house-price-ai.git
 ```
 
-◈ Navigate to Folder
+### Navigate to Project Directory
+
 ```bash
 cd house-price-ai
 ```
 
-◈ Backend Setup
+### Backend Setup
+
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 
-◈ Frontend Setup
+### Frontend Setup
+
 ```bash
 npm install
 npm run dev
@@ -225,47 +253,44 @@ npm run dev
 
 ---
 
-✦ How It Works
-◆ Step-by-Step Prediction Flow
-**1.** User enters housing details  
-**2.** Data is sent to Flask backend API  
-**3.** Trained ML model processes input  
-**4.** Random Forest algorithm predicts price  
-**5.** Predicted house value is displayed instantly
+## How It Works
+
+1. The user enters housing details.
+
+2. The data is sent to the Flask backend API.
+
+3. The trained machine learning model processes the input.
+
+4. The Random Forest model predicts the estimated house price.
+
+5. The result is displayed instantly on the frontend.
+
 ---
 
-◈ Screenshots
+## Future Improvements
 
-◆ Web Interface
-Replace this with your screenshot:
-```md
-![House Price AI](image-link)
-```
+- Advanced analytics dashboard
+- Better prediction visualization
+- AI-based recommendations
+- Improved data insights
+- Authentication system
+- Additional datasets integration
+
 ---
 
-✦ Future Improvements
+## Author
 
-◆ Advanced Analytics Dashboard  
-◆ Better Prediction Visualization  
-◆ AI-Based Smart Recommendations  
-◆ Enhanced Real Estate Insights  
-◆ Multi-Dataset Integration  
-◆ Authentication System  
----
-
-◈ Author
-**Khushi Sharma**
+**Khushi Sharma**  
 Web Developer  
 Machine Learning • Full Stack Development • UI/UX
 
-◆ GitHub  
-**https://github.com/khushisharma7891**
+GitHub:  
+https://github.com/khushisharma7891
 
 ---
 
 <div align="center">
-✦ Designed & Developed with Precision ✦
 
-**House Price AI © 2026**
+Made with Python, React & Machine Learning
 
 </div>
