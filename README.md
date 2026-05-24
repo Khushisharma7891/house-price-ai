@@ -16,7 +16,7 @@
 
 ## Overview
 
-**House Price AI** is an end-to-end Machine Learning project developed as a **BCA 6th Semester Final Year Project**.
+**House Price AI** is an end-to-end Machine Learning project developed as a **Full stack developer**.
 
 This project demonstrates a complete machine learning workflow — starting from raw data collection and preprocessing to model training, evaluation, and deployment as a real-world web application.
 
