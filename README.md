@@ -96,11 +96,21 @@ The primary objective of this project is to predict the **median house value** b
 
 **Libraries Used**
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<h2>Machine Learning & Data Science</h2>
+
+<p align="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>&nbsp;&nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="90" title="NumPy"/>&nbsp;&nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" title="Pandas"/>&nbsp;&nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" title="Matplotlib"/>&nbsp;&nbsp;
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" title="Seaborn"/>
+
+</p>
 
 ### Database
 
@@ -115,10 +125,18 @@ The primary objective of this project is to predict the **median house value** b
 </p>
 
 **Other Tools**
-- Jupyter Notebook
-- Kaggle Dataset
-- Excel
-- Render
+<h2>Tools & Platforms</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mongodb,vercel" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel"/>
+</p>
 
 ---
 
