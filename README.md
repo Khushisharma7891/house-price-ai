@@ -5,7 +5,7 @@
 ### Predicting California House Prices with Machine Learning
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="House Price AI Preview" width="100%" />
+  <img src="eda_summary.png" width="100%" height="250%" />
 </p>
 
 <p align="center">
