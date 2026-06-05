@@ -54,7 +54,7 @@ The primary objective of this project is to predict the **median house value** b
 > Add your project screenshots here
 
 ```md
-![Preview 1](your-image-link)
+![Preview 1](image-link)
 ```
 
 ---
